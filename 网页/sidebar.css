@@ -1,0 +1,30 @@
+.picture{
+	width: 50px;
+	height: 350px;
+	/* background-color: #000000; */
+	border: 1px solid #ff0000;
+	/* Determine positioning */
+	position: absolute;
+	top: 400%;
+	left: 5px;
+}
+.picture>div{
+	width: 99.75%;
+	height: 10%;
+	background-color: blue;
+	/* border: 0.0001px solid #ff0000; */
+}
+.picture>a,.picture>em{
+	padding: auto;
+	text-align: center;
+}
+.nv-qwyv{
+	width: 40px;
+	height: 210px;
+	background-color: #000000;
+	border: 1px solid #0000ff;
+	/* Determine positioning */
+	position: absolute;
+	top: 390px;
+	right: 5px;
+}
